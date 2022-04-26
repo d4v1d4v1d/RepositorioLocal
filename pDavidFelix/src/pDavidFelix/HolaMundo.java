@@ -11,13 +11,8 @@ public class HolaMundo {
 		System.out.println("Adios Mundo");
 		
 		System.out.println("Adios Gente");
+		System.out.println("No se porque va mal");
 		
-<<<<<<< HEAD
-		System.out.println("Hola");
-=======
-		System.out.println("A ver pasa");
->>>>>>> branch 'master' of https://github.com/d4v1d4v1d/RepositorioLocal.git
 	}
-	
 
 }
