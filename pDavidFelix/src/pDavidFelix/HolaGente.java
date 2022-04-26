@@ -1,18 +1,11 @@
 
 public class HolaGente {
 
-	public static void main (Striing [] args) {
+	public static void main (String [] args) {
 		
-		void contador() {
+		System.out.println("Hay errores que  no entiendo");
 			
-			int x;
-			
-			while(x<=5) {
-				x=x+1;
-				
-			}
-			
-		}
+		
 		
 	}
 	
