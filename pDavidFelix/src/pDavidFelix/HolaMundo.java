@@ -12,11 +12,7 @@ public class HolaMundo {
 		
 		System.out.println("Adios Gente");
 		
-<<<<<<< HEAD
-		System.out.println("Hola");
-=======
-		System.out.println("A ver pasa");
->>>>>>> branch 'master' of https://github.com/d4v1d4v1d/RepositorioLocal.git
+		System.out.println("Quinto cambio gente");
 	}
 	
 
